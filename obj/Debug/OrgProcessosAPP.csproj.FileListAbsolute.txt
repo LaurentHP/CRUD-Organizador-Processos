@@ -1,0 +1,14 @@
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\bin\Debug\bdprocessos.accdb
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\bin\Debug\OrgProcessosAPP.exe.config
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\bin\Debug\OrgProcessosAPP.exe
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\bin\Debug\OrgProcessosAPP.pdb
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\obj\Debug\OrgProcessosAPP.OrgProcessosForm.resources
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\obj\Debug\OrgProcessosAPP.Properties.Resources.resources
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\obj\Debug\OrgProcessosAPP.csproj.GenerateResource.cache
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\obj\Debug\OrgProcessosAPP.csproj.CoreCompileInputs.cache
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\obj\Debug\OrgProcessosAPP.exe
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\obj\Debug\OrgProcessosAPP.pdb
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\bin\Debug\OrgProcessosAPP.exe.manifest
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\bin\Debug\OrgProcessosAPP.application
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\obj\Debug\OrgProcessosAPP.exe.manifest
+R:\PUBLICO\OrgProcessos\OrgProcessosAPP\OrgProcessosAPP\obj\Debug\OrgProcessosAPP.application
